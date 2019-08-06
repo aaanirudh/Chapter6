@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+product,com.mycompany.product,ProductSpringApp,5,7,0,0,2,2,1,2,1,2
+product,com.mycompany.product,ProductClient,18,3,0,0,2,1,1,1,1,1
+product,com.mycompany.product,ProductService,81,27,4,2,17,5,6,3,4,2
+product,com.mycompany.product.entity,Product,6,20,0,0,3,9,1,6,1,6
+product,com.mycompany.product.exception,BadRequestException,0,7,0,0,0,3,0,1,0,1
+product,com.mycompany.product.exception,GlobalControllerExceptionHandler,2,27,1,1,0,5,1,2,0,2
